@@ -1,0 +1,24 @@
+{
+  "game": [
+    {
+      "id": 1,
+      "question": "Yuki has the best snacks.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "Alex won the best costume award.",
+      "answer": true
+    },
+    {
+      "id": 3,
+      "question": "Flatiron has the best coffee.",
+      "answer": false
+    },
+    {
+      "id": 4,
+      "question": "Coffee dad is lame-o.",
+      "answer": false
+    }
+  ]
+}
